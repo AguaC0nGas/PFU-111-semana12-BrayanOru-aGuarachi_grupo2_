@@ -1,8 +1,9 @@
 "# PFU-111-semana12-BrayanOru-aGuarachi_grupo2_" 
 
-
 REGISTRO DE PRUEBAS AUTOMATIZADAS
+
 Proyecto: Sistema de registro de solicitudes de soporte técnico
+
 Nota: estas pruebas verifican las reglas de validación del código. Las pruebas interactivas de menú deben completarse ejecutando main.py y tomando capturas reales.
 
 Nombre vacío: APROBADA
