@@ -8,15 +8,20 @@ Nota: estas pruebas verifican las reglas de validación del código. Las pruebas
 
 Nombre vacío: APROBADA
   Mensaje(s): El nombre no puede estar vacío.
+
 Tipo inválido: APROBADA
   Mensaje(s): El tipo debe ser: equipo, software o conectividad.
+
 Datos correctos: APROBADA
 Código con formato incorrecto: APROBADA
   Mensaje(s): El código debe tener entre 6 y 12 caracteres alfanuméricos.
+
 Descripción vacía: APROBADA
   Mensaje(s): La descripción no puede estar vacía.
+
 Prioridad inválida: APROBADA
   Mensaje(s): La prioridad debe ser: baja, media o alta.
+
 Spreadsheet runtime warmup failed during python startup
 Traceback (most recent call last):
   File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
